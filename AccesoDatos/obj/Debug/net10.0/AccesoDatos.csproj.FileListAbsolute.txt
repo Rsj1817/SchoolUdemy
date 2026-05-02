@@ -58,3 +58,4 @@
 /home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/obj/Debug/net10.0/AccesoDatos.pdb
 /home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/obj/Debug/net10.0/AccesoDatos.genruntimeconfig.cache
 /home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/obj/Debug/net10.0/ref/AccesoDatos.dll
+/home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/obj/Debug/net10.0/AccesoDatos.sourcelink.json

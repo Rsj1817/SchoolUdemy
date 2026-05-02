@@ -17,4 +17,5 @@ var alumnoa = opaAlumno.seleccionar(1);
 if (alumnoa != null)
 {
    Console.WriteLine(alumnoa.Nombre);
-} 
+}
+
