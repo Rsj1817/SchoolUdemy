@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{ADE4ADF2-1A35-4B8D-B690-E06D3248472C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web api", "Web api\Web api.csproj", "{EA912D23-9D32-486D-A306-65FA712883DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,5 +25,9 @@ Global
 		{ADE4ADF2-1A35-4B8D-B690-E06D3248472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADE4ADF2-1A35-4B8D-B690-E06D3248472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADE4ADF2-1A35-4B8D-B690-E06D3248472C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA912D23-9D32-486D-A306-65FA712883DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA912D23-9D32-486D-A306-65FA712883DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA912D23-9D32-486D-A306-65FA712883DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA912D23-9D32-486D-A306-65FA712883DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
