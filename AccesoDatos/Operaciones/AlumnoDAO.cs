@@ -105,6 +105,25 @@ public class AlumnoDAO
             };
         return query.ToList();
     }
+
+    public List<AlumnoProfesor> seleccionarAlumnosProfesor(String usuario)
+    {
+        var query = from a in contexto.Alumnos
+            join m in contexto.Matriculas on a.Id equals m.AlumnoId
+            join asig in contexto.Asignaturas on m.AsignaturaId equals asig.Id
+            where asig.Profesor == usuario
+            select new AlumnoProfesor
+            {
+                Id = a.Id,
+                Dni = a.Dni,
+                Nombre = a.Nombre,
+                Direccion = a.Direccion,
+                Edad = a.Edad,
+                Email = a.Email,
+                Asignatura = asig.Nombre
+            };
+        return query.ToList();
+    }
    
     
 }
