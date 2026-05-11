@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {}
+    "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {}
   },
   "projects": {
-    "/home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {
+    "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+        "projectUniqueName": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "/home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
-        "packagesPath": "/home/rigoberto-sanchez/.nuget/packages/",
-        "outputPath": "/home/rigoberto-sanchez/RiderProjects/SchoolUdemy/AccesoDatos/obj/",
+        "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+        "packagesPath": "/home/rigoberto/.nuget/packages/",
+        "outputPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rigoberto-sanchez/.nuget/NuGet/NuGet.Config"
+          "/home/rigoberto/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,12 +76,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[10.0.4, 10.0.4]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
