@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "ZPzGwf8OHIU=",
   "success": true,
   "projectFilePath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+=======
+  "dgSpecHash": "9VaVb21ectM=",
+  "success": true,
+  "projectFilePath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [
     "/home/rigoberto/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
     "/home/rigoberto/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",
@@ -76,10 +82,17 @@
     {
       "code": "NU1903",
       "level": "Warning",
+<<<<<<< Updated upstream
       "message": "El paquete \"System.Security.Cryptography.Xml\" 9.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
       "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
       "warningLevel": 1,
       "filePath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+=======
+      "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
+      "projectPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+>>>>>>> Stashed changes
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"
@@ -88,10 +101,17 @@
     {
       "code": "NU1903",
       "level": "Warning",
+<<<<<<< Updated upstream
       "message": "El paquete \"System.Security.Cryptography.Xml\" 9.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
       "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
       "warningLevel": 1,
       "filePath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+=======
+      "message": "Package 'System.Security.Cryptography.Xml' 9.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
+      "projectPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+>>>>>>> Stashed changes
       "libraryId": "System.Security.Cryptography.Xml",
       "targetGraphs": [
         "net10.0"

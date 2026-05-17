@@ -4377,11 +4377,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
       "projectName": "AccesoDatos",
       "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
       "packagesPath": "/home/rigoberto/.nuget/packages/",
       "outputPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/obj/",
+=======
+      "projectUniqueName": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+      "projectName": "AccesoDatos",
+      "projectPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+      "packagesPath": "/home/rigoberto-sanchez/.nuget/packages/",
+      "outputPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/obj/",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rigoberto/.nuget/NuGet/NuGet.Config"

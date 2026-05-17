@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/Web api/Web api.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
         "packagesPath": "/home/rigoberto/.nuget/packages/",
         "outputPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/obj/",
+=======
+    "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/Web api/Web api.csproj": {}
+  },
+  "projects": {
+    "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+        "projectName": "AccesoDatos",
+        "projectPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj",
+        "packagesPath": "/home/rigoberto-sanchez/.nuget/packages/",
+        "outputPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/obj/",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rigoberto/.nuget/NuGet/NuGet.Config"
@@ -365,6 +379,7 @@
         }
       }
     },
+<<<<<<< Updated upstream
     "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/Web api/Web api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -373,6 +388,16 @@
         "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/Web api/Web api.csproj",
         "packagesPath": "/home/rigoberto/.nuget/packages/",
         "outputPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/Web api/obj/",
+=======
+    "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/Web api/Web api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/Web api/Web api.csproj",
+        "projectName": "Web api",
+        "projectPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/Web api/Web api.csproj",
+        "packagesPath": "/home/rigoberto-sanchez/.nuget/packages/",
+        "outputPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/Web api/obj/",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rigoberto/.nuget/NuGet/NuGet.Config"
@@ -387,8 +412,13 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
+<<<<<<< Updated upstream
               "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {
                 "projectPath": "/home/rigoberto/Documentos/Girkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj"
+=======
+              "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj": {
+                "projectPath": "/home/rigoberto-sanchez/Documentos/Gitkraken/SchoolUdemy/AccesoDatos/AccesoDatos.csproj"
+>>>>>>> Stashed changes
               }
             }
           }
